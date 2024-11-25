@@ -1,0 +1,144 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+</style>
+
+
+*{padding: 0px;
+  margin: 0px;}
+
+header, nav, body,  main, footer, div, h3, h5{
+    width: 100%;
+    padding:0;
+	background-color:#011826; 
+    /*margin-left:auto; 
+    margin-right: auto;*/
+}
+h1{
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+	color:#EA0325
+}
+h2{
+	color: #FF0025;
+	padding: 5px;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+h3{
+	color: #FF0025;
+	font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+h4,li, ul, ol, a, p, input{
+	color: white;
+	font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h6{
+	color: white;
+	font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+footer{
+	background-color:#011826;
+	padding: 5px
+}
+body{
+	padding-left: 0;
+}
+main{
+	background-color:#EA0325;
+	padding: 10px
+}
+section{
+	background-color:#011826;
+
+}
+header{
+     /*width: 960px;*/
+     background-color:#011826;
+     /*color: #F7F1E1;*/
+     color: white;
+}
+.card{
+	background-color:transparent;
+}
+#gpvegas{
+	background-image: url("../imagenes/gpvegas.jpg");
+	width: 100%;
+	
+}
+#dedicatoria{
+	
+	color: white;
+	text-align: center
+}
+#menu{
+	color: white;
+	
+	padding: 10px
+	
+}
+a{
+	color: white
+}
+#menu2{
+	color: white;
+	background-color: #011C31;
+}
+#menu3{
+	
+}
+#arriba{
+	color: white;
+	background-color: #011C31;
+}
+#arriba1{
+	color: #CECDC8;
+	background-color: #011C31;
+}
+	
+#panel1{
+	background-color: #CECDC8;
+}
+#panel2{
+	background-color: #E20821
+}
+#panel3{
+	background-color: #CECDC8;
+}
+#team{
+	background-color: #011C31;
+	color: white;
+	
+}
+#video{
+	background-color: #011C31;
+	color: white;
+	
+}
+#tabla{
+	background-color: #011C31;
+	color: white;
+	
+}
+#tabla2{
+	background-color: #002949;
+	color: white;
+	
+}
+#tabla3{
+	background-color: #023B67;
+	color: white;
+	
+}
